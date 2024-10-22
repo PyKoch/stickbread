@@ -9,4 +9,7 @@ To achieve evenly baked bread, we'll keep the bread turning slowly over charcoal
 - suitable resistor (check!)
 - stepper motor
 - esp32
-- anything else? 
+- anything else?
+
+## Getting started
+[This video](https://youtu.be/tc3Qnf79Ny8?si=-Rb_QZbjWIWu2cQ2) shows you how to use Visual Studio Code with PlatformIO to program the ESP32. 
