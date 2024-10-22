@@ -13,4 +13,4 @@ To achieve evenly baked bread, we'll keep the bread turning slowly over charcoal
 
 ## Getting started
 [This video](https://youtu.be/tc3Qnf79Ny8?si=-Rb_QZbjWIWu2cQ2) shows you how to use Visual Studio Code with PlatformIO to program the ESP32. 
-If you prefer to follow instructions on a website, then randomnerdtutorials have done a very detailed [set of step-by-step instructions](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/). 
+If you prefer to follow instructions on a website, then check the [tutorial](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/) done by _randomnerdtutorials_. 
